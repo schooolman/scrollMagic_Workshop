@@ -23,5 +23,25 @@ var pinsScene02 = new ScrollMagic.Scene({
 .addTo(controller)
 ;
 
+//scene 3 - pin the third section
+var pinsScene03 = new ScrollMagic.Scene({
+    triggerElement: '#slide02',
+    triggerHook: 0,
+    duration: '200%'
+})
+.setPin('#slide03 .pin-wrapper')
+.addTo(controller)
+;
+
+//Scene 4 - Pin the fourth section
+var pinsScene04 = new ScrollMagic.Scene({
+    triggerElement: '#slide03',
+    triggerHook: 0,
+    duration: '100%'
+})
+.setPin('#slide04 .pin-wrapper')
+.addTo(controller)
+;
+
 
 });

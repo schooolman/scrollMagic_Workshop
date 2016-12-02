@@ -148,6 +148,14 @@ p {
   transform: translateY(-100%);
 }
 
+#slide03 .pin-wrapper {
+  transform: translateY(-100%);
+}
+
+#slide04 .pin-wrapper {
+  transform: translateY(-100%);
+}
+
 .scrollmagic-pin-spacer {
   position: absolute !important;
   clip: rect(auto, auto, auto, auto);
