@@ -13,4 +13,15 @@ var pinsScene01 = new ScrollMagic.Scene({
 .addTo(controller)
 ;
 
+//scene 2 - pin the second section
+var pinsScene02 = new ScrollMagic.Scene({
+  triggerElement: '#slide01',
+  triggerHook: 0,
+  duration: '200%'
+})
+.setPin('#slide02 .pin-wrapper')
+.addTo(controller)
+;
+
+
 });
