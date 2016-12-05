@@ -214,15 +214,20 @@ footer a:hover {
         background: url('../img/img_pen-body.png') no-repeat 50% 0;
         background-size: 90px auto;
         min-height: 580px;
+        z-index: 3;
+        position: relative;
     }
     .parts li.part4 {
         background-position: 50% -618px;
         min-height: 430px;
 
+
     }
     .parts li.part5 {
         background-position: 50% -1154px;
         min-height: 150px;
+        z-index: 2;
+        position: relative;
     }
     .parts li.part6 {
         background-position: 50% -1437px;

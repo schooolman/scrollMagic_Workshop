@@ -26,4 +26,12 @@ $(document).ready(function(){
 	.addTo(controller)
 	;
 
+	// move 4 and 5 down, to connect with part 6 - HOW?
+	TweenMax.set('.part5', {y: -7266});
+	TweenMax.set('.part4', {y: -557});
+
+	// move part 6 to connect with the body
+	TweenMax.set('.part6', {y: 846});
+
+
 });
