@@ -8,3 +8,5 @@ Still working through these animation tutorials
 
 Possibly moving back to Angular 2.0 after I finish these
 
+Was working on this at work, but left my computer there. Updating README.md from phone.
+
