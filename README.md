@@ -10,3 +10,4 @@ Possibly moving back to Angular 2.0 after I finish these
 
 Was working on this at work, but left my computer there. Updating README.md from phone.
 
+I May have been raped tonight. Not sure what that means right now but i did not consent to what i woke up to. WEIRD being a gay white male for once.
